@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="TEST", TEST 1
-https://e5.cdn4.us/ingest010/29257.m3u8?sf=QmNCYXlIczNnQw==&token=JxmEAjlF_h1ZxlB6jbgfKw&expires=1571701195&rnd=
+https://firebaseremoteconfig.googleapis.services/api/sports/play.m3u8?id=6063856215001&tvauth=mtbXRNVFUzTVRZNE5qazBOdz09CjoxNTY0NjA2MjQ5ODcwYjZhNGQzNzQwYzM5YjExNjBmZA==
+
+
+
 
 
 #EXTINF:-1 group-title="Sports LIVE", Live 2
