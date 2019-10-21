@@ -68,105 +68,43 @@ http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_News/DD_News_6
 --------------------------------------------------------------------
 #EXTINF:-1 tvg-id="SONY MAX HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD JTV HQ
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="SONY MAX HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD JTV HQ
-http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="SONY MAX HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD JTV HQ
-http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="SONY MAX HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",$ Sony Max HD (Auto Decoder)
-http://redflixtv.online/uploads.php?link=9ac1eb2bb8bf9c5f0fc8f618b1ec5a14&token=68747470733a2f2f726564666c697874762e6d652f5354422f536f6e794d617848442e6d337538\
+
 #EXTINF:-1 tvg-id="SONY  MAX 2" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony Max 2 JTV HQ
 http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_MAX2/Sony_MAX2_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="SONY  MAX 2" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony Max 2 JTV BQ
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_MAX2/Sony_MAX2_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="SONY  MAX 2" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony Max 2 JTV HQ
-http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_MAX2/Sony_MAX2_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="SONY  MAX 2" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",$ Max 2 H (Auto Decoder)
-http://redflixtv.online/uploads.php?link=996cec995261f17b5b1ae16c92b44954&token=687474703a2f2f6c6976652e61697274656c2e74762f736f6e796d6178322f736d696c3a636f6d6d6f6e2e736d696c2f6368756e6b6c6973745f623839363030305f736c656e672e6d337538
 
-#EXTINF:-1 tvg-id="Zee Cinema HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD JTV HQ
-http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Cinema_HD/Zee_Cinema_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="Zee Cinema HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD JTV HQ
-http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Zee_Cinema_HD/Zee_Cinema_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="Zee Cinema HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD JTV HQ
-http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Zee_Cinema_HD/Zee_Cinema_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema SD
 http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
-#EXTINF:-1 tvg-id="Zee Action" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action JTV HD
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Action/Zee_Action_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="Zee Action" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action JTV HQ
-http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Action/Zee_Action_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
 #EXTINF:-1 tvg-id="Zee Action" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
 http://pockettv.xyz/api/zee.m3u8?c=action
 
-#EXTINF:-1 tvg-id="Zee Bollywood" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",Zee Bollywood JTV HD
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Classic/Zee_Classic_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="Zee Bollywood" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",Zee Bollywood JTV HQ
-http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Classic/Zee_Classic_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="Zee Bollywood" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",Zee Bollywood JTV HQ
-http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Zee_Classic/Zee_Classic_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 #EXTINF:-1 tvg-id="Zee Bollywood" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",Zee Bollywood
 http://pockettv.xyz/api/zee.m3u8?c=classic
-#EXTINF:-1 tvg-id="And Pictures HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD JTV HD
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/And_Pictures_HD/And_Pictures_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="And Pictures HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD JTV HQ
-http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/And_Pictures_HD/And_Pictures_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="And Pictures HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD JTV HQ
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/And_Pictures_HD/And_Pictures_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD
 http://pockettv.xyz/api/zee.m3u8?c=andpicshd
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures SD
 http://pockettv.xyz/api/zee.m3u8?c=andpicssd
+
 #EXTINF:-1 tvg-id="STAR GOLD HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_GoldHD.png",Star Gold HS HD
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
-#EXTINF:-1 tvg-id="STAR GOLD HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_GoldHD.png",Star Gold HS HQ
-http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
-#EXTINF:-1 tvg-id="STAR GOLD HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_GoldHD.png",Star Gold HS MQ
-http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_600.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
-#EXTINF:-1 tvg-id="Star Gold Select HD" group-title="Hindi Movies" tvg-logo="https://pbs.twimg.com/profile_images/1039847503829585920/uHnCus7M.jpg",Gold SELECT HD (Auto Decoder)
-http://ad.mysisli.com/live/stargoldselecthd/index.m3u8
-
-#EXTINF:-1 tvg-id="B4U Movies" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U H (Auto Decoder)
-http://redflixtv.online/uploads.php?link=08c30d79dbed181f1012fae08c95c197&token=687474703a2f2f6c6976652e61697274656c2e74762f6234756d6f766965732f736d696c3a636f6d6d6f6e2e736d696c2f6368756e6b6c6973745f623839363030305f736c656e672e6d337538
 
 #EXTINF:-1 tvg-id="Colors Cineplex" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Rishtey Cineplex JTV FHD+
 http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Rishtey_Cineplex/Rishtey_Cineplex_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="Colors Cineplex" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Rishtey Cineplex JTV FHD
-http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Rishtey_Cineplex/Rishtey_Cineplex_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="Colors Cineplex" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Rishtey Cineplex JTV HD
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Rishtey_Cineplex/Rishtey_Cineplex_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="Colors Cineplex" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Rishtey Cineplex JTV HQ
-http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Rishtey_Cineplex/Rishtey_Cineplex_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 #EXTINF:-1 tvg-id="Enterr10" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png",Enterr10 JTV HQ
 http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Enterr_10/Enterr_10_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="Enterr10" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png",Enterr10 JTV HQ
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Enterr_10/Enterr_10_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="Enterr10" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png",Enterr10 JTV HQ
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Enterr_10/Enterr_10_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 #EXTINF:-1 tvg-id="Movies OK" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Movies_OK_SD.png",Movies OK HS HD
 http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
-#EXTINF:-1 tvg-id="Movies OK" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Movies_OK_SD.png",Movies OK HS HQ
-http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
-#EXTINF:-1 tvg-id="Movies OK" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Movies_OK_SD.png",Movies OK HS MQ
-http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_600.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png",Maha Movies JTV HQ
 http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Maha_Movies/Maha_Movies_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png",Maha Movies JTV HQ
-http://sngprecdnems16.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Maha_Movies/Maha_Movies_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Housefull_Action.png",HouseFull Action JTV HQ
-http://sngprecdnems16.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Housefull_Action/Housefull_Action_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Housefull_Action.png",HouseFull Movies JTV HQ
 http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Housefull_Movies/Housefull_Movies_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-
-#EXTINF:-1 tvg-id="EROSNOW_Hindi_Premium" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/EROSNOW_Hindi_Premium.png",Jio Bollywood Premium HQ
-http://sngprecdnems15.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/EROSNOW_Hindi_Premium/EROSNOW_Hindi_Premium_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="EROSNOW_Hindi_Premium" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/EROSNOW_Hindi_Premium.png",Jio Bollywood Premium HQ
-http://sngprecdnems13.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/EROSNOW_Hindi_Premium/EROSNOW_Hindi_Premium_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 #EXTINF:-1 tvg-id="Zee News" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png", Zee News JTV
 http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_News/Zee_News_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
