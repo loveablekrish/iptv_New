@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Sports LIVE", Live 1
-http://speciallive.ddns.net:13292/juno/starsports2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAxOSA2OjEwOjEyIFBNJmhhc2hfdmFsdWU9aTVxMkVHY2VsY2V2KzJmREdCZzhHdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 group-title="TEST", TEST 1
+https://r3---sn-5aap5ojx-jj0e.googlevideo.com/videoplayback?expire=1571707812&ei=RAeuXfqbA-mZz7sP1KG4mAc&ip=103.215.53.251&id=Nc5YwOHC6r0.0&itag=136&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&mm=44%2C29&mn=sn-5aap5ojx-jj0e%2Csn-h5576nee&ms=lva%2Crdu&mv=m&mvi=2&pcm2cms=yes&pl=22&initcwndbps=771250&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1571686044&fvip=3&keepalive=yes&fexp=23842630&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=ALgxI2wwRQIhAPoR4i6HGYRfJCybh12Z7e7bA-J77CK2T8yCXk-7EvynAiArJ5cfZ9sTH2P6AV_kyLRyhGqxNzzE0zc8HNp57VW_eA%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIgBQM8yjCBRCDnsbUE5PMLe7vDkaMxdpcnYSXFMlg3YFICIQCyr_MCWHWoP_4Z55Mu5CeYQ9g0D0hMdzMQgi4YfqPf6w%3D%3D
+
 #EXTINF:-1 group-title="Sports LIVE", Live 2
 http://speciallive.ddns.net:13292/juno/starsports1hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAxOSA2OjA4OjIwIFBNJmhhc2hfdmFsdWU9SzZ5ajBtU0VYOXJvZy94Ly9QSFFmdz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 group-title="Sports LIVE", Live 3
