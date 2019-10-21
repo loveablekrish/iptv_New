@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="TEST", TEST 1
-http://zer0live.ddns.net:13292/vesta/zeebangla/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAxOSA5OjAyOjA3IFBNJmhhc2hfdmFsdWU9cDduZm1wL1hJbkVpN3VZZFhHMnFXdz09JnZhbGlkbWludXRlcz0y
+https://firebaseremoteconfig.googleapis.services/api/tulip/zeeplay.m3u8?id=0-9-zeebangla&tvauth=cpY3BNVFUzTVRZNU1UVTROZz09Cjo4MWMwYWRiNjZkMWMzYTY4MDM4NTQ1Yzg2Mzc3ZWJiNg==
 
 
 
