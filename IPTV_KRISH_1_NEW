@@ -1,24 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="Cricket LIVE", Live 1
+#EXTINF:-1 group-title="Sports LIVE", Live 1
 http://speciallive.ddns.net:13292/juno/starsports2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAxOSA2OjEwOjEyIFBNJmhhc2hfdmFsdWU9aTVxMkVHY2VsY2V2KzJmREdCZzhHdz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1 group-title="Cricket LIVE", Live 2
+#EXTINF:-1 group-title="Sports LIVE", Live 2
 http://speciallive.ddns.net:13292/juno/starsports1hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAxOSA2OjA4OjIwIFBNJmhhc2hfdmFsdWU9SzZ5ajBtU0VYOXJvZy94Ly9QSFFmdz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1 group-title="Cricket LIVE", Live 3
+#EXTINF:-1 group-title="Sports LIVE", Live 3
 http://red.watchtvlive.ml/StarSportsHindiHD1.m3u8
-#EXTINF:-1 group-title="BB TELUGU 3" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png", STAR MAA HS HD
-http://maatv-i.akamaihd.net/hls/live/569930/maatv/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
-#EXTINF:-1 group-title="BB TELUGU 3" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png", STAR MAA HS HQ
-http://maatv-i.akamaihd.net/hls/live/569930/maatv/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
-#EXTINF:-1 group-title="BB TELUGU 3" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png", STAR MAA HS HQ
-http://maatv-i.akamaihd.net/hls/live/569930/maatv/master_600.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="BB TAMIL 3",$ Vijay HD
-http://redflixtv.online/uploads.php?link=dbc65a82a3c644eab8b24695aace511e&token=687474703a2f2f726564666c697873747265616d7a2e6f6e6c696e652f6c6976652f7374617276696a617968642f696e6465782e6d337538
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="BB TAMIL 3", Star Vijay HS HD
-http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="BB TAMIL 3", Star Vijay HS HQ
-http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="BB TAMIL 3", Star Vijay HS MQ
-http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_600.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
+
+
 #EXTINF:-1 tvg-id="SET  HD" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD JTV FHD+
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_HD/Sony_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
