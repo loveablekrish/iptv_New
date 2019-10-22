@@ -2,7 +2,9 @@ TEST
 ------------------------------------------------------------------------------------------
 #EXTM3U
 #EXTINF:-1 group-title="TEST", TEST 1
-https://yuppmsleumo.akamaized.net/hls/live/2008041/dhoommusic/dhoommusic/dhoommusic_1100/chunklist.m3u8
+http://sgdccdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Channel_Bengali/Discovery_Channel_Bengali_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.3(Linux;Android 10)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
