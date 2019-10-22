@@ -1,33 +1,29 @@
 TEST
-
-------------------------------------------------------------------------------------------------------------
-
+------------------------------------------------------------------------------------------
 #EXTM3U
 #EXTINF:-1 group-title="TEST", TEST 1
 https://yuppmsleumo.akamaized.net/hls/live/2008041/dhoommusic/dhoommusic/dhoommusic_1100/chunklist.m3u8
 
-
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
+
 SPORTS Live
-------------
+------------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Sports LIVE", Live 1
 http://speciallive.ddns.net:13292/juno/starsports1hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAxOSA2OjA4OjIwIFBNJmhhc2hfdmFsdWU9SzZ5ajBtU0VYOXJvZy94Ly9QSFFmdz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 group-title="Sports LIVE", Live 2
 http://red.watchtvlive.ml/StarSportsHindiHD1.m3u8
 
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-BANGLA
--------
 
+
+BANGLA
+-------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://i.pinimg.com/originals/4f/b9/a9/4fb9a98f0ea271f7bc2fcd225679f33b.jpg",$ ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
