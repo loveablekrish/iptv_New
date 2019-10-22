@@ -314,6 +314,13 @@ http://pockettv.xyz/api/zee.m3u8?c=bbcworldnews
 #EXTINF:-1 tvg-id="id N/A" group-title="English News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WION_TV_logo.jpg",Wion
 http://pockettv.xyz/api/zee.m3u8?c=wion
 
+#EXTINF:-1 tvg-id="id N/A" group-title="Emglish News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg",Aljazeera
+http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/AL_Jazeera/AL_Jazeera_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.3(Linux;Android 10)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+
+
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
