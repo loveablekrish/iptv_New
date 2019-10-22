@@ -67,7 +67,8 @@ http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_Bangla/DD_Bang
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png",Discovery Bangla
 http://sgdccdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Channel_Bengali/Discovery_Channel_Bengali_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.3(Linux;Android 10)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="",Kolkata Tv
+https://m-c2-j2apps.s.llnwi.net/hls/5956.KolkataLive.in_480p/index.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.3(Linux;Android 10)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
