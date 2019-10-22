@@ -297,13 +297,6 @@ http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/India_Today/India_Today_60
 #EXTINF:-1 tvg-id="id N/A" group-title="English News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Euro_News.png",Euro News JTV HD
 http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Euro_News/Euro_News_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-#EXTINF:-1 tvg-id="id N/A" group-title="English News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png",BBC World JTV FHD
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/BBC_World_News/BBC_World_News_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-
-#EXTINF:-1 tvg-id="id N/A" group-title="English News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AL_Jazeera.png",AlJazeera Eng JTV FHD
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/AL_Jazeera/AL_Jazeera_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-
-
 #EXTINF:-1 tvg-id="id N/A" group-title="English News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",Republic TV
 https://repblicwld.s.llnwi.net/live/hls1/master_chunklist1.m3u8
 
@@ -318,13 +311,6 @@ http://pockettv.xyz/api/zee.m3u8?c=bbcworldnews
 
 #EXTINF:-1 tvg-id="id N/A" group-title="English News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WION_TV_logo.jpg",Wion
 http://pockettv.xyz/api/zee.m3u8?c=wion
-
-
-
-#EXTINF:-1 tvg-id="id N/A" group-title="English News" tvg-logo="https://tvtbr.s3.amazonaws.com/MWTV/MWTV_LIVETVCHANNEL_302/PORTRAIT/762060c0-fcc1-47fb-a2f6-583526d59690.jpg",NDTV Prime JTV HQ
-http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/NDTV_Prime/NDTV_Prime_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="id N/A" group-title="English News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sky_News.png",Sky News JTV HD
-http://ssrigcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sky_News/Sky_News_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
