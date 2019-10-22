@@ -1,6 +1,6 @@
 TEST
 
-
+------------------------------------------------------------------------------------------------------------
 
 #EXTM3U
 #EXTINF:-1 group-title="TEST", TEST 1
@@ -13,7 +13,7 @@ https://yuppmsleumo.akamaized.net/hls/live/2008041/dhoommusic/dhoommusic/dhoommu
 
 
 SPORTS Live
-
+------------
 
 #EXTINF:-1 group-title="Sports LIVE", Live 1
 http://speciallive.ddns.net:13292/juno/starsports1hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAxOSA2OjA4OjIwIFBNJmhhc2hfdmFsdWU9SzZ5ajBtU0VYOXJvZy94Ly9QSFFmdz09JnZhbGlkbWludXRlcz0y
@@ -25,12 +25,58 @@ http://red.watchtvlive.ml/StarSportsHindiHD1.m3u8
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+BANGLA
+-------
+
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://i.pinimg.com/originals/4f/b9/a9/4fb9a98f0ea271f7bc2fcd225679f33b.jpg",$ ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:low,fl_lossy/kimg/kimg/76cdd490a6d940638e6ce3aca6c9562a_1280X720.png",$ NEWS18 Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://uttarbangla.com/uploadedfile/BHXRDRMGM35622@L8C48.jpg",$ UttarBangla
+http://209.58.164.245/uttarbanglahls/live.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://rplus.in/wp-content/uploads/2018/12/ll-300x188.png",$ RPlus News
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh4.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Onkar_Only_Truth.png", Onkar TV JTV HQ
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Onkar_Only_Truth/Onkar_Only_Truth_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",Colors Bangla HD JTV FHD+
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Bengali_HD/Colors_Bengali_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla", Star Jalsha HS HD
+https://starjalsa-i.akamaihd.net/hls/live/569902-b/starjalsa/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png",Jalsha Movies HS HD
+http://jalsamovies-i.akamaihd.net/hls/live/569886/jalsamovies/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png", Aath JTV HQ
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_aath/Sony_aath_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla JTV HQ
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Zee_Bangla/Zee_Bangla_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla HD
+http://pockettv.xyz/api/zee.m3u8?c=zeebanglahd
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla SD
+http://pockettv.xyz/api/zee.m3u8?c=zeebanglasd
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee B Cinema JTV HQ
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Bangla_Cinema/Zee_Bangla_Cinema_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png",Akash Aath JTV HQ
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Aakaash_bangla/Aakaash_bangla_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_Time_TV.png",News Time JTV HQ
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/News_Time_TV/News_Time_TV_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/24_Ghanta_logo.JPG",Zee 24 Ghanta 
+http://pockettv.xyz/api/zee.m3u8?c=24ghanta
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:low,fl_lossy/kimg/kimg/76cdd490a6d940638e6ce3aca6c9562a_1280X720.png",NEWS18 Bangla JTV HQ
+http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/ETV_Bangla_News/ETV_Bangla_News_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://tvtbr.s3.amazonaws.com/MWTV/MWTV_LIVETVCHANNEL_821/PORTRAIT/9f2296b2-a778-485e-8b63-3dc30f281c6c.png",Sangeet Bangla JTV HQ
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sangeet_Bangla/Sangeet_Bangla_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bangla.png",DD Bangla JTV HQ
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_Bangla/DD_Bangla_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Hindi Entertainment
-
-
-
+--------------------
 
 #EXTINF:-1 tvg-id="SET  HD" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD JTV FHD+
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_HD/Sony_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
@@ -85,9 +131,7 @@ http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_News/DD_News_6
 
 
 Hindi Movies
-
-
-
+------------
 #EXTINF:-1 tvg-id="SONY MAX HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD JTV HQ
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
@@ -132,9 +176,10 @@ http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Housefull_Movi
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
+
 HINDI News
-
-
+------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="Zee News" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png", Zee News JTV
 http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_News/Zee_News_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
@@ -227,16 +272,14 @@ http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 http://edge-ind.inapcdn.in:1935/device2/camera2.stream/chunklist.m3u8
 
 
-
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
+
+
 ENGLISH News
-
-
-
+------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="id N/A" group-title="English News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png",NDTV 24x7 JTV HQ
 http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/NDTV_24x7/NDTV_24x7_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
@@ -287,14 +330,14 @@ http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/NDTV_Prime/NDTV_P
 #EXTINF:-1 tvg-id="id N/A" group-title="English News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sky_News.png",Sky News JTV HD
 http://ssrigcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sky_News/Sky_News_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
+
+
 Infotainment
-
-
+------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="id N/A" group-title="Infotainment 2",$ Food Food 
 https://sony247channels.akamaized.net/hls/live/2002598/FoodFood/896.m3u8
 #EXTINF:-1 tvg-name="Jio Exclusive HD" tvg-id="id N/A" group-title="Infotainment JTV" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png",Jio Exclusive HD
@@ -466,18 +509,12 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunkl
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="$ Fashion TV Midnite" tvg-id="EPG N/A" group-title="Infotainment 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/95/Fashion_TV_2009.svg/revision/latest/scale-to-width-down/200?cb=20111009231547",$ Fashion TV Midnite
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-
-
-
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
 Kids
-
-
+------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png",Nickelodeon
 http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Nickelodeon/Nickelodeon_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 #EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png",Nickelodeon Jr
@@ -532,8 +569,6 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Chintu_TV/Chintu_TV_600.m3u
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Chutti_TV/Chutti_TV_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 
-
-
 #EXTINF:-1 tvg-id="id N/A" group-title="Kids 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",$ Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="Kids 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/630px-Aniplus_Asia_Logo.png",$ Aniplus
@@ -543,15 +578,12 @@ http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8|user-agent="Lavf/56.15.102"
 #EXTINF:-1 tvg-id="id N/A" group-title="Kids 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",$ BOOMERANG
 http://95.170.215.118/hls/m3u8/Boomerang.m3u8|user-agent="Lavf/56.15.102"
 
-
-
-
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-HINDI MUSIC
 
+HINDI MUSIC
+------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="ZOOM" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png",ZOOM JTV HQ
 http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/ZOOM/ZOOM_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
@@ -644,12 +676,11 @@ http://ngprsite.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_
 
 
 
-----------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 TELUGU
-
-
+------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="https://paganresearch.io/images/YUPPTV.jpeg",$ TBO
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/index.m3u8
@@ -808,16 +839,13 @@ http://smumcdnems01.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/HM_TV/HM_TV_600.m3u
 #EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/te/0/0f/10tv_telugu.jpg",10TV JTV HQ
 http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/10_TV/10_TV_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-
-
-
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 
+
+
 KANNADA
-
-
+------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Kannada" tvg-logo="https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:low,fl_lossy/kimg/kimg/e2b89aa2effe45e79728ed9a611b0515_1280X720.png",$ News18 Kannada
 https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_5_av-p.m3u8
@@ -893,13 +921,13 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TV9_Karnataka/TV9_Karnataka
 #EXTINF:-1 tvg-id="id N/A" group-title="Kannada" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Kannada.png",Raj News Kannada JTV HD
 http://ngprite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Raj_News_Kannada/Raj_News_Kannada_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Tamil
 
+
+Tamil
+------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil", Star Vijay HS HD
 http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
@@ -1023,15 +1051,12 @@ http://live.wmncdn.net/peppers/live.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="Tamil 2" tvg-logo="https://www.lycatv.tv/img/upload/contents/channelpage/channels/1479282874-582c10ba6bcb3.png",$ Sivan TV HD
 https://sivan.vedge.infomaniak.com/livecast/sivan/playlist.m3u8
 
-
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
 REGIONAL
-
-
+------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Regional" tvg-logo="logo N/A",Zee MP CG
 http://pockettv.xyz/api/zee.m3u8?c=newsmpcg
@@ -1078,17 +1103,12 @@ https://streamer.multitvsolution.in/IndiaNewsMP-a/playlist.m3u8
 #EXTINF:-1 group-title="Regional",$ News 18 Bih/Jh
 https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_5_av-p.m3u8
 
-
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
 Marathi
-
-
-
+------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Marathi" tvg-logo="https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:low,fl_lossy/kimg/kimg/abc01903b7d54dafba8e3a58bccff842_1280X720.png",$ News18 Lokmat
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
@@ -1188,14 +1208,11 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sahara_Samay_Mumbai/Sahara_
 #EXTINF:-1 tvg-id="id N/A" group-title="Marathi" tvg-logo="https://www.mxmindia.com/wp-content/uploads/2013/08/Maiboli.jpg",Saam JTV HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Saam_Tv/Saam_Tv_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ASSAMESE
-
-
-
+------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Assamese" tvg-logo="https://static.assam.news18.com/assam/uploads/2019/04/desktop-assam.png",$ News18 Assam
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
@@ -1206,16 +1223,11 @@ http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh2.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="Assamese" tvg-logo="http://www.magicalassam.com/wp-content/uploads/2014/09/dy-365-assam-watch-live1.jpg",DY365
 http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh1.stream_aac/playlist.m3u8
 
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
 Malayalam
-
-
-
+------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Malayalam.png" group-title="Malayalam",DD Malayalam
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/DD_Malayalam/DD_Malayalam_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
@@ -1440,14 +1452,12 @@ http://cdn.asianetmobiletvplus.com/channels/7eb4dc1f3240c8eb776d41b95bd1d197.smi
 #EXTINF:-1 tvg-id="id N/A" group-title="Malayalam 2" tvg-logo="https://image.roku.com/developer_channels/prod/363ab328b7016878551f2fc04efe34262c18a93fd952c925ad07df1d9dc236e9.png",$ Harvest TV
 http://7mbd4ogkr3gx-hls-live.wmncdn.net/886/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/tracks-v1a1/index.m3u8
 
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
 Odia
-
-
+------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Odia" tvg-logo="https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:low,fl_lossy/kimg/kimg/03d4849116374df2824161e677e93d1d_1280X720.png",$ News18 Odia
 https://etv-oriya.akamaized.net/i/n18odia_1@179753/index_5_av-p.m3u8
@@ -1550,9 +1560,10 @@ http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/News_World_Odisha
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
+
 Gujarati
-
-
+------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Gujarati" tvg-logo="https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:low,fl_lossy/kimg/kimg/d41cca68d28e4780a328ec14cc95197e_1280X720.png",$ News18 Gujarati
 https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_5_av-p.m3u8
@@ -1607,67 +1618,12 @@ http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/VTV_Gujarati/VTV_
 #EXTINF:-1 tvg-id="id N/A" group-title="Gujarati" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/VTV_Gujarati.png",VTV Gujarati JTV HQ
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/VTV_Gujarati/VTV_Gujarati_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-BANGLA
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://i.pinimg.com/originals/4f/b9/a9/4fb9a98f0ea271f7bc2fcd225679f33b.jpg",$ ABP Ananda
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:low,fl_lossy/kimg/kimg/76cdd490a6d940638e6ce3aca6c9562a_1280X720.png",$ NEWS18 Bangla
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://uttarbangla.com/uploadedfile/BHXRDRMGM35622@L8C48.jpg",$ UttarBangla
-http://209.58.164.245/uttarbanglahls/live.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://rplus.in/wp-content/uploads/2018/12/ll-300x188.png",$ RPlus News
-http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh4.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Onkar_Only_Truth.png", Onkar TV JTV HQ
-http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Onkar_Only_Truth/Onkar_Only_Truth_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",Colors Bangla HD JTV FHD+
-http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Bengali_HD/Colors_Bengali_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla", Star Jalsha HS HD
-https://starjalsa-i.akamaihd.net/hls/live/569902-b/starjalsa/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png",Jalsha Movies HS HD
-http://jalsamovies-i.akamaihd.net/hls/live/569886/jalsamovies/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png", Aath JTV HQ
-http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_aath/Sony_aath_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla JTV HQ
-http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Zee_Bangla/Zee_Bangla_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla HD
-http://pockettv.xyz/api/zee.m3u8?c=zeebanglahd
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla SD
-http://pockettv.xyz/api/zee.m3u8?c=zeebanglasd
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee B Cinema JTV HQ
-http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Bangla_Cinema/Zee_Bangla_Cinema_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png",Akash Aath JTV HQ
-http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Aakaash_bangla/Aakaash_bangla_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_Time_TV.png",News Time JTV HQ
-http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/News_Time_TV/News_Time_TV_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/24_Ghanta_logo.JPG",Zee 24 Ghanta 
-http://pockettv.xyz/api/zee.m3u8?c=24ghanta
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:low,fl_lossy/kimg/kimg/76cdd490a6d940638e6ce3aca6c9562a_1280X720.png",NEWS18 Bangla JTV HQ
-http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/ETV_Bangla_News/ETV_Bangla_News_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://tvtbr.s3.amazonaws.com/MWTV/MWTV_LIVETVCHANNEL_821/PORTRAIT/9f2296b2-a778-485e-8b63-3dc30f281c6c.png",Sangeet Bangla JTV HQ
-http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sangeet_Bangla/Sangeet_Bangla_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bangla.png",DD Bangla JTV HQ
-http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_Bangla/DD_Bangla_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-
-
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
 PANJABI
-
-
+------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Punjabi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png", 9X Tashan JTV HQ
 http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/9X_Tashan/9X_Tashan_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
@@ -1836,10 +1792,13 @@ http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 group-title="Punjabi 2", Punjabi Tv Canada
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 
-----------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 DEVOTIONAL
+-----------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Devotional" tvg-logo="logo N/A",Satsang
 http://pockettv.xyz/api/zee.m3u8?c=satsangtv
@@ -1885,11 +1844,13 @@ http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m
 http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_1700_av-p.m3u8?sd=10&rebase=on
 
 
-----------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 URDHU
-
-
+------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Urdu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kashir.png",DD Kashir JTV HD
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_Kashir/DD_Kashir_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
@@ -1964,10 +1925,12 @@ http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_ESPN_HD/Sony
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_ESPN_HD/Sony_ESPN_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 
-----------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 ENGLISH CHANNELS
+----------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="logo N/A",Zee World
 http://pockettv.xyz/api/zee.m3u8?c=world
@@ -2087,12 +2050,13 @@ http://95.170.215.118/hls/m3u8/Sky-MoviesPremie.m3u8|user-agent="Lavf/56.15.102"
 http://95.170.215.118/hls/m3u8/Sky-MoviesSelect.m3u8|user-agent="Lavf/56.15.102"
 
 
-----------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 EXTRA
-
-
+-----------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="id N/A" group-title="WORLDWIDE", Q Stream
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="WORLDWIDE" tvg-logo="logo N/A",Zee Cinema US
@@ -2109,4 +2073,6 @@ http://pockettv.xyz/api/zee.m3u8?c=ztvme
 http://pockettv.xyz/api/zee.m3u8?c=apacsea
 #EXTINF:-1 tvg-id="id N/A" group-title="WORLDWIDE" tvg-logo="logo N/A",Zing US
 http://pockettv.xyz/api/zee.m3u8?c=zingusa
-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
