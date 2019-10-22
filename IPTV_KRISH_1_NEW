@@ -3,6 +3,240 @@ TEST
 #EXTM3U
 https://yuppmsleumo.akamaized.net/hls/live/2008041/dhoommusic/dhoommusic/dhoommusic_1100/chunklist.m3u8|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 #EXTINF:-1 group-title="TEST", TEST 1
+#EXTINF:-1,beIN Sports 1 HD (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/1.ts
+#EXTINF:-1,beIN Sports 2 HD (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/2.ts
+#EXTINF:-1,beIN Sports 3 HD (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/3.ts
+#EXTINF:-1,beIN Sports 4 HD (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/4.ts
+#EXTINF:-1,beIN Sports 5 HD (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/5.ts
+#EXTINF:-1,beIN Sports 6 HD (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/6.ts
+#EXTINF:-1,beIN Sports 7 HD (AR
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/7.ts
+#EXTINF:-1,beIN Sports 8 HD (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/8.ts
+#EXTINF:-1,beIN Sports 9 HD (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/9.ts
+#EXTINF:-1,beIN Sports 10 HD (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/10.ts
+#EXTINF:-1,OSN AD Sports 1 HD (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/18.ts
+#EXTINF:-1,OSN AD Sports 2 HD (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/19.ts
+#EXTINF:-1,beIN Sports HD (ES)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/20.ts
+#EXTINF:-1,OSN Movies Kids HD (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/25.ts
+#EXTINF:-1,OSN Movies HD (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/26.ts
+#EXTINF:-1,OSN Movies 2h (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/27.ts
+#EXTINF:-1,OSN Movies Action HD (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/28.ts
+#EXTINF:-1,beIN Movies 1HD (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/29.ts
+#EXTINF:-1,beIN Movies 2HD (AR) https://iptv.luxe
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/30.ts
+#EXTINF:-1,beIN Movies 3HD (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/31.ts
+#EXTINF:-1,beIN Movies 4HD (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/32.ts
+#EXTINF:-1,OSN Box Office 1 HD (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/33.ts
+#EXTINF:-1,OSN Box Office 2 HD (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/34.ts
+#EXTINF:-1,OSN WWE HD (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/36.ts
+#EXTINF:-1,OSN Fox Movies HD (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/37.ts
+#EXTINF:-1,MBC 1 (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/39.ts
+#EXTINF:-1,MBC 2 (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/40.ts
+#EXTINF:-1,MBC 4 (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/41.ts
+#EXTINF:-1,MBC MASR (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/42.ts
+#EXTINF:-1,MBC Action (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/43.ts
+#EXTINF:-1,MBC MAX (AR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/44.ts
+#EXTINF:-1,EuroSport 1 (FR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/12.ts
+#EXTINF:-1,EuroSport 2 (FR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/13.ts
+#EXTINF:-1,beIN Sports 1 HD (FR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/14.ts
+#EXTINF:-1,beIN Sports 2 HD (FR)
+http://www.freeiptvdaily.net:8000/live/bxKMGmSOjz/freeiptvdaily.tv/15.ts
+#EXTINF:-1,Super Sport 4
+http://tv74.selfip.com:80/piki1/piki2/151
+#EXTINF:-1,Super Sport 3
+http://tv74.selfip.com:80/piki1/piki2/144
+#EXTINF:-1,Super sport 2
+http://tv74.selfip.com:80/piki1/piki2/210
+#EXTINF:-1,Super Sport 1
+http://tv74.selfip.com:80/piki1/piki2/209
+#EXTINF:-1,FR: beINSport 2 HD
+http://tv74.selfip.com:80/piki1/piki2/1040
+#EXTINF:-1,FR: beINSport 3 HD
+http://tv74.selfip.com:80/piki1/piki2/1041
+#EXTINF:-1,FR: beINSport HD 1
+http://tv74.selfip.com:80/piki1/piki2/1039
+#EXTINF:-1,Fox Sport 1 Eredivisie HD
+http://tv74.selfip.com:80/piki1/piki2/2143
+#EXTINF:-1,Fox Sport 2 International HD
+http://tv74.selfip.com:80/piki1/piki2/2142
+#EXTINF:-1,Fox Sport 3 Eredivisie HD
+http://tv74.selfip.com:80/piki1/piki2/2141
+#EXTINF:-1,MRT 1
+http://tv74.selfip.com:80/piki1/piki2/538
+#EXTINF:-1,MRT 2
+http://tv74.selfip.com:80/piki1/piki2/537
+#EXTINF:-1,Sitel
+http://tv74.selfip.com:80/piki1/piki2/412
+#EXTINF:-1,24 Vesti Macedonija
+http://tv74.selfip.com:80/piki1/piki2/1071
+#EXTINF:-1,Telma
+http://tv74.selfip.com:80/piki1/piki2/414
+#EXTINF:-1,Kanal 5
+http://tv74.selfip.com:80/piki1/piki2/411
+#EXTINF:-1,Alfa tv MK
+http://tv74.selfip.com:80/piki1/piki2/1069
+#EXTINF:-1,NICKELODEON DE
+http://tv74.selfip.com:80/piki1/piki2/1061
+#EXTINF:-1,Disney Junior DE https://iptv.luxe
+http://tv74.selfip.com:80/piki1/piki2/363
+#EXTINF:-1,Sports | Tring Sport 4
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44566.m3u8
+#EXTINF:-1,Super Campeones 2018 24/7
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/35515.m3u8
+#EXTINF:-1,Sports | Tring Sport 2
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44568.m3u8
+#EXTINF:-1,Sports | Ziggo_Sport_Racing
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44461.m3u8
+#EXTINF:-1,Sports | SuperSport4
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44571.m3u8
+#EXTINF:-1,Sports | Ziggo_Sport_extra_2
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44463.m3u8
+#EXTINF:-1,Sports | Supersport2
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44573.m3u8
+#EXTINF:-1,Sports | Viasat Golf
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44429.m3u8
+#EXTINF:-1,Sports | Super Sport Kosova 1
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44576.m3u8
+#EXTINF:-1,Sports | Tring Sport News HD
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44565.m3u8
+#EXTINF:-1,Sports | STAR SPORTS.4
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44484.m3u8
+#EXTINF:-1,Sports | Tring Sport 3
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44567.m3u8
+#EXTINF:-1,Sports | Sport-Digital
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44533.m3u8
+#EXTINF:-1,Sports | Tring Sport 1
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44569.m3u8
+#EXTINF:-1,Sports | Sport Klub 2 (HR)
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44525.m3u8
+#EXTINF:-1,Sports | Supersport3
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44572.m3u8
+#EXTINF:-1,Sports | Sky Sports MotoGP HD
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44472.m3u8
+#EXTINF:-1,Sports | SuperSport1
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44574.m3u8
+#EXTINF:-1,Sports | Sky Sport News
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44535.m3u8
+#EXTINF:-1,Sports | Super Sport 5
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44577.m3u8
+#EXTINF:-1,Sports | SFR SPORT 2 HD
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44492.m3u8
+#EXTINF:-1,Sports | STAR SPORTS.2
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44486.m3u8
+#EXTINF:-1,Sports | Premium EuroSport 2 HD
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44480.m3u8
+#EXTINF:-1,Sports | Sport Klub 3 (HR)
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44524.m3u8
+#EXTINF:-1,Sports | ON Sport HD *
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44544.m3u8
+#EXTINF:-1,Sports | Sport Klub 1 (HR)
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44526.m3u8
+#EXTINF:-1,Sports | NBC SPORT
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44582.m3u8
+#EXTINF:-1,Sports | Sky Sports F1 HD
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44608.m3u8
+#EXTINF:-1,Sports | Movistar Deportes 1
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44605.m3u8
+#EXTINF:-1,Sports | Sky Sport 2
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44537.m3u8
+#EXTINF:-1,Sports | Fox_Sport.6
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44466.m3u8
+#EXTINF:-1,Sports | SFR SPORT 1 HD
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44493.m3u8
+#EXTINF:-1,Sports | Fox Sport 2
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44584.m3u8
+#EXTINF:-1,Sports | Premium EuroSport 1 HD
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44481.m3u8
+#EXTINF:-1,Sports | Eurosport 1
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44454.m3u8
+#EXTINF:-1,Sports | Oman Sports
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44545.m3u8
+#EXTINF:-1,Sports | Digi_Sport.2
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44450.m3u8
+#EXTINF:-1,Sports | Movistar Toros TV
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44607.m3u8
+#EXTINF:-1,Sports | Satellite TVDEPORTES 2 HD
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44618.m3u8
+#EXTINF:-1,Sports | K Sport 1 (Shqip)
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44580.m3u8
+#EXTINF:-1,Sports | 5
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44503.m3u8
+#EXTINF:-1,Sports | fox_Sport.2
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44470.m3u8
+#EXTINF:-1,Sports | BEIN SPORT SP HD
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44620.m3u8
+#EXTINF:-1,Sports | Fishing & Hunting
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44445.m3u8
+#EXTINF:-1,Sports | Arena Sport 3 (HR)
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44529.m3u8
+#EXTINF:-1,Sports | Digi_Sport.3
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44449.m3u8
+#EXTINF:-1,Sports | ALKASS1 HD
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44558.m3u8
+#EXTINF:-1,Sports | Satellite TVMOTOGP
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44621.m3u8
+#EXTINF:-1,Sports | TSN Sport 5
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44399.m3u8
+#EXTINF:-1,Sports | 6
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44502.m3u8
+#EXTINF:-1,Sports | Super Sport 2 (SR)
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44506.m3u8
+#EXTINF:-1,Sports | 10
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44505.m3u8
+#EXTINF:-1,Speedy Gonzales
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/37013.m3u8
+#EXTINF:-1,Sports | Arena Sport 4 (HR)
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44528.m3u8
+
+
+#EXTINF:-1,--------------------------------Satelite Ecuador HD-------------------------
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/17550.m3u8
+#EXTINF:-1,Sports | Arena Sport 2 (HR)
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44530.m3u8
+#EXTINF:-1,Republica Dominicana | TeleMicro
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/33075.m3u8
+#EXTINF:-1,Sports | ADSport 2HD
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44589.m3u8
+#EXTINF:-1,Republica Dominicana | Digital 15
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/35546.m3u8
+#EXTINF:-1,Sports | TSN Sport 3
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44401.m3u8
+#EXTINF:-1,REL:Bethel TV HD
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/25883.m3u8
+#EXTINF:-1,Sports | Sports NET 1 HD
+http://ecuaplaytv.com:8000/live/Nelson/Nelson/44407.m3u8
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
