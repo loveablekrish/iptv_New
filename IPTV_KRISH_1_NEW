@@ -459,16 +459,16 @@ ENGLISH CHANNELS
 
 
 
-#EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="logo N/A",&Prive HD
+#EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg",&Prive HD
 http://pockettv.xyz/api/zee.m3u8?c=andprivehd
 
-#EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="logo N/A",Zee Cafe HD
+#EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7a/Zee_Cafe_HD_2015.jpg/revision/latest?cb=20180624153341",Zee Cafe HD
 http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
 
-#EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="logo N/A",&Flix HD
+#EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix HD
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 
-#EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="logo N/A",Zee World
+#EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/Zee_World_Extraordinary._Everyday..jpg/revision/latest?cb=20190310105405",Zee World
 http://pockettv.xyz/api/zee.m3u8?c=world
 
 #EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",Colors Infinity HD JTV HQ
@@ -504,7 +504,7 @@ http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Movies_Now2_HD/Mo
 #EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MNPLUS.png",MN+ JTV HD
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/MNPLUS/MNPLUS_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-#EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="logo N/A",$ HBO 3
+#EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="https://pl.wikipedia.org/wiki/HBO3#/media/Plik:HBO3_gradient.PNG",$ HBO 3
 http://95.170.215.118/hls/m3u8/HBO-3.m3u8|user-agent="Lavf/56.15.102"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="logo N/A",$ Sky Movies Action
@@ -1788,4 +1788,6 @@ http://pockettv.xyz/api/zee.m3u8?c=ztvme
 http://pockettv.xyz/api/zee.m3u8?c=apacsea
 #EXTINF:-1 tvg-id="id N/A" group-title="WORLDWIDE" tvg-logo="logo N/A",Zing US
 http://pockettv.xyz/api/zee.m3u8?c=zingusa
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
