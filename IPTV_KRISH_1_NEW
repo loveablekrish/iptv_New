@@ -1,3 +1,6 @@
+TEST
+
+
 #EXTM3U
 #EXTINF:-1 group-title="TEST", TEST 1
 https://yuppmsleumo.akamaized.net/hls/live/2008041/dhoommusic/dhoommusic/dhoommusic_1100/chunklist.m3u8
@@ -5,8 +8,9 @@ https://yuppmsleumo.akamaized.net/hls/live/2008041/dhoommusic/dhoommusic/dhoommu
 
 
 
---------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
+SPORTS LIVE
 
 
 #EXTINF:-1 group-title="Sports LIVE", Live 1
@@ -14,10 +18,13 @@ http://speciallive.ddns.net:13292/juno/starsports1hd/playlist.m3u8?wmsAuthSign=c
 #EXTINF:-1 group-title="Sports LIVE", Live 2
 http://red.watchtvlive.ml/StarSportsHindiHD1.m3u8
 
---------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 Hindi Entertainment
+
+
 
 #EXTINF:-1 tvg-id="SET  HD" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD JTV FHD+
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_HD/Sony_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
@@ -693,12 +700,23 @@ http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 #EXTINF:-1 group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png",Aaho Musio
 http://live.redflixtv.online/M3U8_Music_Aaho_New.php
-----------------------------------------------------------------------------------------------------------------
+
+
 #EXTINF:-1 tvg-id="MTV Beats HD" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD JTV FHD+
 http://ngprsite.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 #EXTINF:-1 tvg-id="MTV Beats HD" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD JTV FHD
 http://ngprsite.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+
+
+
+
 ----------------------------------------------------------------------------------------------------------------
+
+
+TELUGU
+
+
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="https://paganresearch.io/images/YUPPTV.jpeg",$ TBO
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/index.m3u8
@@ -736,17 +754,6 @@ http://maatv-i.akamaihd.net/hls/live/569930/maatv/master_600.m3u8
 http://redflixtv.online/uploads.php?link=003f57854f6d1ddaad5c530e47bed0c6&token=68747470733a2f2f726564666c697874762e6d652f5354422f537461724d616148442e6d337538/
 #EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music_HD.png",Maa Music HD (Auto Decoder)
 http://redflixtv.online/uploads.php?link=dca297d1f61ce19ee440b70ec35657ba&token=68747470733a2f2f726564666c697874762e6d652f5354422f4d61614d757369632e6d337538
-
-
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-Telugu
-
-
 #EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png",T News JTV HQ
 http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/T_News/T_News_600.m3u8|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 #EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png",T News JTV HQ
@@ -1701,8 +1708,6 @@ http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_aath/Sony_aath_600.m3
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Zee_Bangla/Zee_Bangla_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla HD
 http://pockettv.xyz/api/zee.m3u8?c=zeebanglahd
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla HD
-https://z5ams.akamaized.net/zeebanglahd/index.m3u8?hdnts=st=1571687082~exp=1571690082~acl=/*~hmac=0d82a542ecffc95dc460e4c0ce01b054311a36b53a4164cc431500923e0e1c47
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla SD
 http://pockettv.xyz/api/zee.m3u8?c=zeebanglasd
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee B Cinema JTV HQ
