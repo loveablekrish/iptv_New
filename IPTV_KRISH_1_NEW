@@ -624,3 +624,36 @@ https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
 
 
 
+DEVOTIONAL
+-----------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Devotional" tvg-logo="logo N/A",Satsang
+http://pockettv.xyz/api/zee.m3u8?c=satsangtv
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Devotional" tvg-logo="logo N/A",Sanskar
+http://pockettv.xyz/api/zee.m3u8?c=sanskartv
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Devotional" tvg-logo="logo N/A",SaiTV 
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/SaiTV/SaiTV_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Devotional" tvg-logo="logo N/A",Yoga TV Swamiji
+http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Devotional" tvg-logo="logo N/A",Madani Channel Urdu
+https://svs.itworkscdn.net/madanitvurdulive/mdtvu.smil/chunklist_b1625000.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Devotional" tvg-logo="logo N/A",MTA English
+http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Devotional" tvg-logo="logo N/A",MTA 1
+http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Devotional" tvg-logo="logo N/A",MTA 3
+http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_1700_av-p.m3u8?sd=10&rebase=on
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
