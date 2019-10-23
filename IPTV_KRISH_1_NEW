@@ -544,3 +544,30 @@ http://pockettv.xyz/api/zee.m3u8?c=zingusa
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+URDHU
+------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Urdu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kashir.png",DD Kashir JTV HD
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_Kashir/DD_Kashir_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Urdu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png",Zee Salaam JTV HD
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Salaam/Zee_Salaam_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Urdu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png",Zee Salaam
+http://pockettv.xyz/api/zee.m3u8?c=zeesalaam
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Urdu" tvg-logo="https://www.jugnitv.com/static/front/images/channel_logo/fd71799ee6db305c1c0bd276aaa6088b_v.png",$ Toronto 360
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Urdu" tvg-logo="http://www.channelwin.tv/wp-content/uploads/2018/10/CW-logo-01-1.png",$ Channel Win
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News 18 Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/News18_Urdu_logo.png" group-title="Urdu",# News 18 Urdu
+https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
